@@ -4,7 +4,7 @@ Esse é o repositório de exercicio no qual foi feito a interface de login do In
 
 ### Os requisitos usados Foram:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [HTML básico]
+* [CSS básico]
 
  Template base usado: Link(https://github.com/SpruceGabriela/instagram-dio.git)
